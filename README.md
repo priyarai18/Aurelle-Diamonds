@@ -1,21 +1,22 @@
 # Aurelle Diamonds
 
-A responsive luxury diamond jewelry demo website built with HTML, CSS, and JavaScript.
+A responsive luxury jewelry website designed to deliver an elegant and premium digital experience.
 
-## Pages
-- Home
-- Collections
-- About Us
-- Custom Jewelry
-- Contact
+## Features
+
+* Responsive and elegant user interface
+* Jewelry collection showcase
+* Custom jewelry section
+* Brand story and information pages
+* Contact and inquiry interface
+* Mobile-friendly navigation
 
 ## Tech Stack
-- HTML5
-- CSS3
-- JavaScript
 
-## Deployment
-This is a static website and can be deployed on Vercel or GitHub Pages.
+* HTML5
+* CSS3
+* JavaScript
 
-## Note
-Aurelle Diamonds is a demo brand. Replace the demo contact details, address, email, phone number, and social links before using the website for a real client.
+## Project Overview
+
+Aurelle Diamonds is a modern jewelry website focused on clean design, premium aesthetics, and a seamless browsing experience across devices.
